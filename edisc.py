@@ -1,3 +1,6 @@
+#Copyright 2025-present Linuxlawyer.com
+#Licensed under the GPL v3.0 license
+
 import os
 import mailbox
 import tkinter as tk
